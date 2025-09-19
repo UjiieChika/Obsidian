@@ -162,6 +162,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "3c446d0c3a8123ee",
-  "lastOpenFiles": []
+  "active": "41fed2343a59232f",
+  "lastOpenFiles": [
+    "Note/4_PermanentNote",
+    "Note/3_LiteratureNote",
+    "Note/2_IndexNote",
+    "Note/1_FleetingNote",
+    "Memo",
+    "Note",
+    "Clipping"
+  ]
 }
