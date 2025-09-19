@@ -11,10 +11,14 @@
             "id": "3c446d0c3a8123ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/UjiieChikaObsidian Obsidianのicloudバックアップ先.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "UjiieChikaObsidian Obsidianのicloudバックアップ先"
             }
           }
         ]
@@ -143,6 +147,20 @@
               "icon": "lucide-list",
               "title": "アウトライン"
             }
+          },
+          {
+            "id": "0954f92ff0b1fe4c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
           }
         ]
       }
@@ -159,11 +177,18 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "audio-recorder:録音の開始/停止": false,
+      "publish:パブリッシュによる変更の公開": false,
+      "homepage:Open homepage": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-memos:Thino": false
     }
   },
-  "active": "41fed2343a59232f",
+  "active": "3c446d0c3a8123ee",
   "lastOpenFiles": [
+    "Clippings/UjiieChikaObsidian Obsidianのicloudバックアップ先.md",
+    "Clippings",
     "Note/4_PermanentNote",
     "Note/3_LiteratureNote",
     "Note/2_IndexNote",
